@@ -9,6 +9,7 @@
 
 ## Authors
 * **정은채** - *Initial work* 
+* **정태영** - *Eunchae's brother*
 
 ## License
 
