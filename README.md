@@ -1,5 +1,6 @@
 # 초보개발자 정은채 GitHub 
 ![image](https://user-images.githubusercontent.com/103551807/163096470-2ff35d13-cc85-4945-bfa8-c45858592c9f.png)
+![image](https://user-images.githubusercontent.com/103551807/163303392-16744b7a-2625-4593-a106-a7d6616d60e7.jpg)
 
 * 이화여자대학교 컴퓨터공학과
 * 이제시작~
